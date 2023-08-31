@@ -1,5 +1,4 @@
-def test_password(x):
-    print(x)
+
 
 a = "hello world"
 b = "whats up"
@@ -8,6 +7,3 @@ job_list = {'jhon': 'doctor', 'jane': 'engineer', 'jim': 'teacher'}
 
 for name, job in job_list.items():
     print(f"{name} is a {job}")
-
-    password = 'supasecretAdminPass'
-    test_password(password)
